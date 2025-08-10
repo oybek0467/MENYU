@@ -1,0 +1,130 @@
+body{
+    background-color: brown;
+}
+.section4{
+    width: 800px;
+    height: 400px;
+    margin-bottom: 100px;
+    background-image: url(./BALIQ.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 10px;
+}
+.section4_h2 ,.section4_p{
+    padding-left: 100px;
+}
+.section4_h2{
+    font-size: 72px;
+    color: rgb(21, 255, 0);
+    width: 500px;
+    padding-top: 80px;
+}
+.section4_p{
+    width: 550px;
+    font-size: 32px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.section4_tovuq{
+    width: 800px;
+    height: 400px;
+    margin-bottom: 100px;
+    background-image: url(./tovuq.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 10px;
+}
+.tovuq ,.section4_p{
+    padding-left: 100px;
+}
+.tovuq{
+    font-size: 72px;
+    color: yellow;
+    width: 500px;
+    padding-top: 80px;
+}
+a{
+    text-decoration: none;
+}
+.section4_shashlik{
+    width: 800px;
+    height: 400px;
+    margin-bottom: 100px;
+    background-image: url(./shashlik.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 10px;
+}
+.shashlik ,.section4_p{
+    padding-left: 100px;
+}
+.shashlik{
+    font-size: 72px;
+    color: blue;
+    width: 500px;
+    padding-top: 80px;
+}
+a{
+    text-decoration: none;
+}
+.section4_gosht{
+    width: 800px;
+    height: 400px;
+    margin-bottom: 100px;
+    background-image: url(./gosht.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 10px;
+}
+.gosht ,.section4_p{
+    padding-left: 100px;
+}
+.gosht{
+    font-size: 72px;
+    color: rgb(255, 196, 0);
+    width: 500px;
+    padding-top: 80px;
+}
+a{
+    text-decoration: none;
+}.baliqhtml_a{
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.menyu{
+    display: flex;
+    
+}
+.section3{
+    background-color: white;
+    display: inline-block;
+    margin-top: 50px;
+    width: 279px;
+    padding: 0px;
+    
+}
+img{
+    width: 200px;
+    padding-left: 0px;
+}
+p,h3{
+    color: black;
+    font-family: sans-serif;
+}
+li{
+    list-style: none;
+}
+.narx{
+   font-size:x-large; 
+}
+ul{
+    display: flex;
+}
