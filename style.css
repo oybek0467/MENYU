@@ -109,11 +109,13 @@ a{
     margin-top: 50px;
     width: 279px;
     padding: 0px;
+    border-radius: 5px;
     
 }
 img{
     width: 200px;
     padding-left: 0px;
+    border-radius: 5px;
 }
 p,h3{
     color: black;
@@ -127,4 +129,54 @@ li{
 }
 ul{
     display: flex;
+}
+footer {
+    margin-bottom: 100px;
+}
+
+.footer_ul {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_li {
+    margin-bottom: 10px;
+}
+
+.footer_li a {
+    font-size: 14px;
+    color: grey;
+}
+
+.asosiy{
+    font-weight: bold;
+    
+}
+
+.asosiy a {
+    font-size: 16px;
+    color: black;
+}
+.logo{
+    width: 40px;
+}
+
+.logo1{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.logo2{
+    width: 25px;
+}
+.logolar{
+    display: flex;
+}
+.otasi{
+    display: flex;
+}
+.logo4{
+    width: 38px;
+    border-radius: 14px;
 }
